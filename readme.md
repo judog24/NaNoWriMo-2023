@@ -17,10 +17,16 @@ This year will probably be a mess, but I think that is to be expected with most 
 |  --- |   ---  |
 |   1  |   250  |
 |   2  |   800  |
-|      |        |
+|   3  |  2000  |
 
 ## Progress
 
 ### Day 1/2
 
 Did some late night writing when the clock hit midnight just to get some words in. Busy couple of days. Attempted to write a food review.
+
+### Day 3
+
+Wrote about some jigsaw puzzles that my parents were working on.
+
+A word sprint led to the start of a fictional short story that seems very mundane, but I have an idea for a twist. This is my first attempt at fictional writing during any NaNoWriMo attempt.
