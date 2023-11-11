@@ -18,6 +18,7 @@ This year will probably be a mess, but I think that is to be expected with most 
 |   1  |   250  |
 |   2  |   800  |
 |   3  |  2000  |
+|   11 |  2630  |
 
 ## Progress
 
@@ -30,3 +31,9 @@ Did some late night writing when the clock hit midnight just to get some words i
 Wrote about some jigsaw puzzles that my parents were working on.
 
 A word sprint led to the start of a fictional short story that seems very mundane, but I have an idea for a twist. This is my first attempt at fictional writing during any NaNoWriMo attempt.
+
+### Day 10
+
+There are probably some questions about where the other days went, but that will be answered in a story soon enough. I did not have rib injury on my list of reasons that would prevent me from completing NaNoWriMo.
+
+Finally writing some words again. I doubt I'll reach the end goal, but I still want to make it a point to write as much as I can. Began writing about my time on Mastodon.
