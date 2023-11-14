@@ -18,7 +18,8 @@ This year will probably be a mess, but I think that is to be expected with most 
 |   1  |   250  |
 |   2  |   800  |
 |   3  |  2000  |
-|   11 |  2630  |
+|   10 |  2630  |
+|   13 |  3380  |
 
 ## Progress
 
@@ -37,3 +38,7 @@ A word sprint led to the start of a fictional short story that seems very mundan
 There are probably some questions about where the other days went, but that will be answered in a story soon enough. I did not have rib injury on my list of reasons that would prevent me from completing NaNoWriMo.
 
 Finally writing some words again. I doubt I'll reach the end goal, but I still want to make it a point to write as much as I can. Began writing about my time on Mastodon.
+
+### Day 13
+
+Trying to get back into the habit of writing. Brought out my laptop to do some writing while watching late night TV. Wrote around 750 words about the new When We Were Young news. I never published it anywhere, but writing about my experience at When We Were Young last year did take up a large chunk of my NaNoWriMo word count.
